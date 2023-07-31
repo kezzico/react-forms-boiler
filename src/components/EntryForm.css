@@ -1,0 +1,32 @@
+form {
+    display: block;
+
+    background: lightblue;
+    padding: 2em;
+}
+
+form > input, form > textarea, form > button {
+    display: block;
+    padding: 0.4em;
+    border: none;
+    border-radius: 0.1em;
+    margin-bottom: 1em;
+    box-sizing: border-box;
+}
+
+form > input[type="text"], form > textarea {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+
+    font-weight: bold;
+
+    font-size: 2em;
+}
+
+form > button {
+    font-weight: bold;
+    background: blue;
+    border: none;
+    color: white;
+    font-size: 2em;
+}
