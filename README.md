@@ -1,6 +1,6 @@
 # ENTRY FORM
 
-This is a React 18 project that demonstrates how to create and submit HTML forms using (Router Router 6.14)[https://reactrouter.com/].
+This is a React 18 project that demonstrates how to create and submit HTML forms using [Router Router 6.14](https://reactrouter.com/).
 
 
 ## INSTALL
